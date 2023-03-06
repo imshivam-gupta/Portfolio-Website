@@ -17,7 +17,7 @@ const Project = () => {
                 imgsrc={'p1img.png'} 
                 name={'Weather Scanner'} 
                 description={"This website fetches the current weather data and displays it in real-time. Plus, you can add cities to your watchlist, so you're always in the know about the weather in your favorite locations"} 
-                linksrc={'https://joyful-sprinkles-435506.netlify.app/'}
+                linksrc={'https://weather-scanner.netlify.app/'}
             />
 
             <ProjectCard  
