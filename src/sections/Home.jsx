@@ -47,16 +47,16 @@ const Home = () => {
 
             <div className="flex md:justify-start ">
              
-                <a href={"/"} className="mr-5 cursor-pointer mt-8 hover:scale-125">
+                <a href={"https://www.linkedin.com/in/shivam-gupta-bbb669226/"} className="mr-5 cursor-pointer mt-8 hover:scale-125">
                   <AiFillGithub className='text-4xl'/>
                 </a>
-                <a href={"/"} className="mr-5 cursor-pointer mt-8 hover:scale-125">
+                <a href={"https://github.com/imshivam-gupta"} className="mr-5 cursor-pointer mt-8 hover:scale-125">
                   <BsLinkedin className='text-4xl'/>
                 </a>
-                <a href={"/"} className="mr-5 cursor-pointer mt-8 hover:scale-125">
+                <a href={"https://leetcode.com/shivam_gupta2604/"} className="mr-5 cursor-pointer mt-8 hover:scale-125">
                   <SiLeetcode className='text-4xl'/>
                 </a>
-                <a href={"/"} className="mr-5 cursor-pointer mt-8 hover:scale-125">
+                <a href={"https://www.codechef.com/users/imshivamgupta"} className="mr-5 cursor-pointer mt-8 hover:scale-125">
                   <SiCodechef className='text-4xl'/>
                 </a>
 
